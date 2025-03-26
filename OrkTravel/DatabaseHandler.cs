@@ -12,7 +12,7 @@ namespace OrkTravel
 {
     internal class DatabaseHandler
     {
-        string connectionString = "server=comp-server.uhi.ac.uk;uid=IN21011375;pwd=21011375;database=IN21011375";
+        string connectionString = "server=;uid=;pwd=;database=";
         MySqlConnection conn;
         
 
